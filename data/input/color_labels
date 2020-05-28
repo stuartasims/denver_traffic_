@@ -1,0 +1,28 @@
+google maps colors sampled from map image export
+{
+'crimson' : (129,31,31), 
+'bright_red' : (242,60,50),
+'orange' : (255,151,77),
+'peach' : (255, 203, 166),
+'peach_orange' : (255, 177, 122),
+'road_no_traffic_data' : (255, 255, 255),
+'road_edge' : (241, 241, 241),
+'closure' : (209, 53, 43),
+'closed_place_marker' : (154, 160, 166),
+'airport_marker' : (16, 189, 255),
+'airport_label' : (0, 143, 206),
+'water' : (170, 218, 255),
+'park' : (203, 233, 202),
+'city_space' : (232, 232, 232),
+'park_label_text' : (24, 128, 56),
+'beach_sand' : (255, 229, 211),
+'google_label_blue' : (66, 133, 244),
+'google_label_red' : (234, 67, 53),
+'google_label_yellow' : (251, 188, 5),
+'google_label_green' : (52, 168, 83),
+'interstate_marker_blue' : (56, 120, 199),
+'interstate_marker_red' : (218, 97, 97),
+'city_name_label' : (84, 88, 94),
+'major_road_center' : (255, 242, 175),
+major_road_edge' : (249, 216, 120)
+}

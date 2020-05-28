@@ -1,0 +1,6 @@
+cd C:\Users\Stuart\Downloads\class_output\gifs
+
+ffmpeg -i denver_heartbeat_full_length.gif -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" denver_heartbeat_full_length.mp4
+
+
+ffmpeg -i denver_heartbeat_side_by_side.gif -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" denver_heartbeat_side_by_side.mp4
